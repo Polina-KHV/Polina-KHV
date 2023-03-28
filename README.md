@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Polina🌻
 
-<!--
-**Polina-KHV/Polina-KHV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm just in the begining of the exciting journey to the world of 💜development💜.  
+Now I study on 'Web Development' course in [Yandex Practicum](https://practicum.yandex.ru/).  
+I also exercise in [Codewars](https://www.codewars.com/users/Polina-KHV), but not pretty regular😅.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm planning to practice more, do some tutorials on JS or maybe create my own tiny app with RCA😏.  
+So wait for more interesting projects in my profile🌼.
+
+And yes, about hobbies!  
+In a free time a practice english (now I reread Harry Potter) and learning korean (i'm a huge fan of k-pop and k-dramas).  
+I also love running🏃‍♀️💜
