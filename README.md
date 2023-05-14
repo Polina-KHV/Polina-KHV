@@ -1,5 +1,7 @@
 ### Hi there, I'm Polina🌻
 
+My Tech Stack:  
+HTML    CSS    JavaScript    Node.js    Git    React
 
 I'm just in the begining of the exciting journey to the world of 💜development💜.  
 Now I study on 'Web Development' course in [Yandex Practicum](https://practicum.yandex.ru/).  
@@ -11,3 +13,7 @@ So wait for more interesting projects in my profile🌼.
 And yes, about hobbies!  
 In a free time a practice english (now I reread Harry Potter) and learning korean (i'm a huge fan of k-pop and k-dramas).  
 I also love running🏃‍♀️💜
+
+You can contact me here:  
+Telegram: @Polina_Khvorostukhina  
+Email: polinakhvorost@yandex.ru
