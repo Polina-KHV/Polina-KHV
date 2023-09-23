@@ -12,7 +12,7 @@ I'm planning to practice more, do some tutorials on JS or maybe create my own ti
 So wait for more interesting projects in my profile🌼.
 
 And yes, about hobbies!  
-In a free time a practice english (now I reread Harry Potter) and learning korean (i'm a huge fan of k-pop and k-dramas).  
+In a free time i practice english and learning korean (i'm a huge fan of k-pop and k-dramas).  
 I also love running🏃‍♀️💜
 
 You can contact me here:  
